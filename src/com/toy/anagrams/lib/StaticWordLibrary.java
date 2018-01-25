@@ -28,6 +28,7 @@
 * new comment test
 * Kommmentar
 *neuer Kommentar
+*test Kommentar
  */
 
 /* Anagram Game Application */
